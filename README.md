@@ -1,4 +1,4 @@
-# ishity
+# Welcome to OchaHack!
 
 ocha-hackへようこそ！
 
