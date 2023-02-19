@@ -5,7 +5,7 @@ ocha-hackへようこそ！
 
 ## Step 1: Web開発の基礎を学ぼう
 
- - HTMLの基礎
+ - HTMLの基礎[index.html]
  - CSSの基礎
  - JSの基礎
 
