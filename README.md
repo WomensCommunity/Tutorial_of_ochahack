@@ -17,7 +17,7 @@ ocha-hackへようこそ！
 
  - [HTMLの基礎](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/index.html)
  - [CSSの基礎](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/style.css)
- - JSの基礎
+ - [JSの基礎](https://docs.google.com/document/d/1nBmmuf0vqrvmULWNNLttd7ojMiLdySN32AdohYuUzeA/edit#heading=h.vfdplrkp0ds5)
  - [参考資料](https://docs.google.com/document/d/1L3zZG_ozfBFJosnrp8eKPyV7hSlwssJLdyGXiIPkXVE/edit?usp=sharing)
  
 ## Step 3: GitHub Pagesにデプロイしよう！
