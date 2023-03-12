@@ -10,7 +10,7 @@ ocha-hackへようこそ！
 
 ## Step 1: GitHubについて学ぼう
 
- - [参考資料](https://drive.google.com/drive/folders/15dWBDJGkc0U4wQy00PPzLNgSDtTK3E9P)
+ - [資料](https://drive.google.com/drive/folders/15dWBDJGkc0U4wQy00PPzLNgSDtTK3E9P)
 
 ## Step 2: Web開発の基礎を学ぼう
 
