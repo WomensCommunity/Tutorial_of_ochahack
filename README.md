@@ -9,9 +9,9 @@ ocha-hackへようこそ！
 
 ## Step 1: Web開発の基礎を学ぼう
 
- - [HTML - 基本のサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/index.html)
- - [CSS - 基本のサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/style.css)
  - [HTML&CSS - 参考資料](https://docs.google.com/document/d/1L3zZG_ozfBFJosnrp8eKPyV7hSlwssJLdyGXiIPkXVE/edit#)
+   - [HTML - 基本のサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/index.html)
+   - [CSS - 基本のサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/style.css)
  - [JS - 参考資料](https://docs.google.com/document/d/1nBmmuf0vqrvmULWNNLttd7ojMiLdySN32AdohYuUzeA/edit#heading=h.vfdplrkp0ds5)
  - [参考資料](https://docs.google.com/document/d/1L3zZG_ozfBFJosnrp8eKPyV7hSlwssJLdyGXiIPkXVE/edit?usp=sharing)
 
