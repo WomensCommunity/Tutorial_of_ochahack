@@ -6,6 +6,7 @@ ocha-hackへようこそ！
 ## Step 0: 開発環境を整えよう
 
  - [事前準備について](https://docs.google.com/document/d/1_HoxrdDfJfujsY1AZVFLEAe30pUnOnhqsDFy7yH103E/edit?usp=sharing)
+  - [GitHub初級]()
 
 ## Step 1: Web開発の基礎を学ぼう
 
