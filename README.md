@@ -5,8 +5,8 @@ ocha-hackへようこそ！
 
 ## Step 0: 開発環境を整えよう
 
- - ターミナルの使い方
- - [参考資料]()
+ - 事前準備をしよう！
+ - [参考資料](https://docs.google.com/document/d/1_HoxrdDfJfujsY1AZVFLEAe30pUnOnhqsDFy7yH103E/edit?usp=sharing)
 
 ## Step 1: GitHubについて学ぼう
 
