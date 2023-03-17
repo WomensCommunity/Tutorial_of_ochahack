@@ -21,8 +21,7 @@ ocha-hackへようこそ！
 
 #### Step 1.2: Webでの開発物をもっと魅力的にするには
 
- - 皆さんが普段みるWebサイトはどのような作りになっていますか？
- - HTML&CSSで文字とデザインの作成ができることは分かりましたが、果たして世の中のWebサイトはそれだけで完成しているのでしょうか？
+ - 皆さんが普段みるWebサイトはどのような作りになっていますか？HTML&CSSで文字とデザインの作成ができることは分かりましたが、果たして世の中のWebサイトはそれだけで完成しているのでしょうか？
  - もっと自分のWeb開発物を魅力的にしたいという方、そんな時はJavaScriptを使いましょう！JavaScriptはWeb上でサイト等の動きを作っているプログラミング言語です。写真がふわっと浮き上がったり、画像がスライドショーのように次々に変化したりする動きは全てJavaScriptで作ることができます！
  - 以下の資料を参考にしてJavaScriptに触れてみましょう！
  - [JS - 参考資料](https://docs.google.com/document/d/1nBmmuf0vqrvmULWNNLttd7ojMiLdySN32AdohYuUzeA/edit#heading=h.vfdplrkp0ds5)
