@@ -5,6 +5,7 @@ ocha-hackへようこそ！
 
 ## Step 0: 開発環境を整えよう
 
+ - 基本的に開発に使うのはVScode/GitHub/Gitコマンドの3点！この3つを必ず使えるようにしておこう！
  - <a href="https://docs.google.com/document/d/1_HoxrdDfJfujsY1AZVFLEAe30pUnOnhqsDFy7yH103E/edit?usp=sharing" target="_blank">事前準備について</a>
 
 ## Step 1: Web開発の基礎を学ぼう
@@ -19,7 +20,6 @@ ocha-hackへようこそ！
  - [GitHub入門](https://docs.google.com/document/d/1W9z9N-Nb3NZtPFFj6zhrnH6vnaxgWIedxFZEkUCfq_U/edit?usp=share_link)
  - [GitHub初級](https://docs.google.com/document/d/1nwcBA6d31hiInlPptNI6u_lUDq3svpj7c09LzfsNDe8/edit?usp=share_link)
  - [GitHub中級](https://docs.google.com/document/d/1hjmWgLyvNzd39ybPlsb2TwG-1OvzWMZpcm09fGomgy0/edit?usp=share_link)
- - [GitHub上級](https://docs.google.com/document/d/1BXDBLUxugABqdsCzCBNKGx_rZhjkdy5DwqIP4GhHMd0/edit?usp=share_link)
 
 ## Step 3: デプロイしよう！
 
