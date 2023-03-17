@@ -6,6 +6,7 @@ ocha-hackへようこそ！
 ## Step 0: 開発環境を整えよう
 
  - 基本的に開発に使うのはVScode/GitHub/Gitコマンドの3点！この3つを必ず使えるようにしておこう！
+ - 下記の資料を参考に事前の準備を行ってね！
  - <a href="https://docs.google.com/document/d/1_HoxrdDfJfujsY1AZVFLEAe30pUnOnhqsDFy7yH103E/edit?usp=sharing" target="_blank">事前準備について</a>
 
 ## Step 1: Web開発の基礎を学ぼう
