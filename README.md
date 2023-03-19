@@ -53,4 +53,13 @@ ocha-hackへようこそ！
 
 ## Step 4: プロダクト開発のコツ
 
-- [プロダクト開発のコツ](https://docs.google.com/document/d/1V9-UbISBEbdZES60vjQI7ylRGL4dw5QAQ71worDcwhk/edit?usp=share_link)
+ - [プロダクト開発のコツ](https://docs.google.com/document/d/1V9-UbISBEbdZES60vjQI7ylRGL4dw5QAQ71worDcwhk/edit?usp=share_link)
+
+
+## 作品の提出について
+
+ - [プレゼンスライド提出場所](https://drive.google.com/drive/folders/15sF3YAMvojDMG-9AwbxlYS28s1ExTiMb?usp=sharing)
+ - [プロダクトURL記入シート](https://docs.google.com/spreadsheets/d/1D7NKLNnaVSdfpWYauJEQZW5_cASNNrkLrBGW5Obmqv4/edit#gid=0)
+ 
+ 
+
