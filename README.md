@@ -49,7 +49,7 @@ ocha-hackへようこそ！
 
 ## Step 3: デプロイしよう！
 
- - [GitHub Pagesにデプロイする方法](https://docs.google.com/document/d/1FSDN_pIgZB0fThoLOrqcmh2IU9PrcZY70lvxlzahwWM/edit?usp=share_link)
+ - [デプロイ - 参考資料](https://docs.google.com/document/d/1FSDN_pIgZB0fThoLOrqcmh2IU9PrcZY70lvxlzahwWM/edit?usp=share_link)
 
 ## Step 4: プロダクト開発のコツ
 
