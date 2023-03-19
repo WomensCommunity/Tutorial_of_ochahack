@@ -5,16 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    
+    <!-- CDNを使います -->
     <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+    
+    <!-- 用意したjsの内容を読み込んでいます -->
     <script src="script.js"></script>
 </head>
 
-<!-- bodyはホームページの中身です -->
 <body>
 
+    <!-- クリックするとtargetのcolorが変化するように指定 -->
+    
     <p id="target">ボタンを押すと背景色が変わります</p>
     <button onclick="changeColor('target')">ボタン</button>
+    
     <br>
+    
+    <!-- クリックするとsampleのcolorが変化するように指定 -->
+    
     <div id="sample">ボタン2を押すと背景色が変わります</div>
     <button type="button" id="btn1" class="btn btn-success">ボタン2</button>
 
