@@ -38,8 +38,8 @@ ocha-hackへようこそ！
  - もっと自分のWeb開発物を魅力的にしたいという方、そんな時はJavaScriptを使いましょう！JavaScriptはWeb上でサイト等の動きを作っているプログラミング言語です。写真がふわっと浮き上がったり、画像がスライドショーのように次々に変化したりする動きは全てJavaScriptで作ることができます！
  - 以下の資料を参考にしてJavaScriptに触れてみましょう！
  - [JS - 参考資料](https://docs.google.com/document/d/1nBmmuf0vqrvmULWNNLttd7ojMiLdySN32AdohYuUzeA/edit#heading=h.vfdplrkp0ds5)
- - [JS - HTMLのサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/index.html)
- - [JS - JSのサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/style.css)
+ - [JS - HTMLのサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/js-sample.html)
+ - [JS - JSのサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/script.js)
 
 ## Step 2: GitHubについて学ぼう
 
