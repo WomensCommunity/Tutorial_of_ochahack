@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<!-- bodyはホームページの中身です -->
+<body>
+
+    <p id="target">ボタンを押すと背景色が変わります</p>
+    <button onclick="changeColor('target')">ボタン</button>
+    <br>
+    <div id="sample">ボタン2を押すと背景色が変わります</div>
+    <button type="button" id="btn1" class="btn btn-success">ボタン2</button>
+
+    <script>
+        //jquery
+        $(function() {
+        // ブルー
+        $("#btn1").click(function() {
+            //文字色変更
+            $("#sample").css("color","#BFAC63");
+            //背景変更
+            $("#sample").css("background-color","#218838");
+        });
+        });
+    </script>
+
+</body>
+
+</html>
