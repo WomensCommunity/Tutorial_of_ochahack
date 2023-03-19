@@ -14,6 +14,19 @@ ocha-hackへようこそ！
 
  - Web開発は基本的にHTML&CSSで行うことができます。
  - HTMLはWeb上でのテキストの部分、CSSはWeb上のデザインの部分を作ってくれるプログラミング言語でどちらも簡単に扱うことができます！
+
+##### お茶大公式HPのHTML
+<img width="500" alt="Screenshot 2023-03-19 at 11 55 59" src="https://user-images.githubusercontent.com/88872183/226151309-f6eb8336-64c6-4efa-96c5-2ac6174fbeca.png">
+
+
+##### お茶大公式HPのHTML+CSS
+<img width="500" alt="Screenshot 2023-03-19 at 11 56 17" src="https://user-images.githubusercontent.com/88872183/226151314-ea8899dc-a989-4ece-92df-253164c0f244.png">
+
+
+##### 完成形のお茶大公式HP
+<img width="500" alt="Screenshot 2023-03-19 at 11 57 03" src="https://user-images.githubusercontent.com/88872183/226151317-ad9998b4-1002-4f02-8eca-8200284a01dc.png">
+
+
  - 以下の資料とサンプルコードを参考にしてHTML&CSSに触れてみましょう！
    -  [HTML&CSS - 参考資料](https://docs.google.com/document/d/1L3zZG_ozfBFJosnrp8eKPyV7hSlwssJLdyGXiIPkXVE/edit#)
    - [HTML - 基本のサンプルコード](https://github.com/WomensCommunity/Tutorial_of_ochahack/blob/main/index.html)
